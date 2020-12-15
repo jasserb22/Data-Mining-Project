@@ -31,8 +31,11 @@
 ## 4- Tweets Classification: KMeans
 - Import KMeans from scikit-learn
 - Calculate WCSS and use the Elbow method to Find the optimal number of clusters
-![alt text](https://github.com/jasserb22/Data-Mining-Project/blob/main/elbow.jpg?raw=true)
+<img src="elbow.JPG"
+     style="float: left; margin-right: 10px;" />
+
 
 ## Output:
 
-![alt text](https://github.com/jasserb22/Data-Mining-Project/blob/main/result.jpg?raw=true)
+<img src="result.JPG"
+     style="float: left; margin-right: 10px;" />
