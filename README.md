@@ -36,6 +36,11 @@
 
 
 ## Output:
+- A list of 30 clusters with one tweet representing each one
+
 
 <img src="result.JPG"
-     style="float: left; margin-right: 10px;" />
+    />
+          
+## Conclusion:
+ It is amazing what you can extract and deduct from simple words typed by ordinary people thanx to data mining and python with its vast and resourceful libraries. These information can help us make very sensitive decisions with very low risk in different fields depending on our needs.
