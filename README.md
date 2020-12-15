@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jasserb22/Data-Mining-Project/main)
 # Data-Mining-Project
 # Tweets Clustering
 
